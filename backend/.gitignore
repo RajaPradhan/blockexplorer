@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# production
+/build
+/dist
+
+# misc
+.eslintcache
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+.env
